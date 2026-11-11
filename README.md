@@ -1,5 +1,7 @@
 # Ghostty ASCII Background
 
+![Ghostty terminal with the animated ASCII background](assets/screenshot.png)
+
 An animated background for the [Ghostty](https://ghostty.org) terminal. Small ASCII characters (`. : * o & 8 @`) drift slowly behind your text like clouds. They're drawn only on empty background, so your text stays readable.
 
 It's a single GLSL shader file that Ghostty runs on top of the terminal. You don't need any plugins or extra apps.
